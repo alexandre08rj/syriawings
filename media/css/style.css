@@ -1,0 +1,34 @@
+/* demo page styles */
+body {
+    background:#eee;
+    margin:0;
+    padding:0;
+}
+.example {
+    position:relative;
+    background-color:#fff;
+    width:768px;
+    overflow:hidden;
+    border:1px #000 solid;
+    margin:20px auto;
+    padding:20px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+/* custom styles */
+.tn3-gallery {
+    width: 768px;
+    height: 559px;
+}
+.tn3-image {
+    width: 768px;
+    height: 512px;
+}
+.tn3-controls-bg {
+    width: 768px;
+}
+.tn3-thumbs {
+    width: 565px;
+}

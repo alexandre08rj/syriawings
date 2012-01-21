@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* Social Media Neon Icons*/
+div.socialmedia a {outline:none;}
+div.socialmedia img.i64 {width:64px;height:64px;}
+div.socialmedia img.i48 {width:48px;height:48px;}
+div.socialmedia img.i32 {width:32px;height:32px;}
+div.socialmedia img.i24 {width:24px;height:24px;}
+div.socialmedia img.i16 {width:16px;height:16px;}
+div.socialmedia img {margin:3px;padding:0px;border:none;}
+div.socialcredit {width:100%}
+div.socialcredit a {font-size:10px;}
+.clr {clear:both;}
+
+	

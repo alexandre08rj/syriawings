@@ -1,0 +1,17 @@
+MANIFEST.in
+README.txt
+setup.cfg
+modwsgideploy/__init__.py
+modwsgideploy/commands.py
+modwsgideploy/templates/__init__.py
+modwsgideploy/templates/apache/+package+.wsgi_tmpl
+modwsgideploy/templates/apache/+package+_tmpl
+modwsgideploy/templates/apache/README.txt_tmpl
+modwsgideploy/templates/apache/test.wsgi
+pip-egg-info/modwsgideploy.egg-info/PKG-INFO
+pip-egg-info/modwsgideploy.egg-info/SOURCES.txt
+pip-egg-info/modwsgideploy.egg-info/dependency_links.txt
+pip-egg-info/modwsgideploy.egg-info/entry_points.txt
+pip-egg-info/modwsgideploy.egg-info/not-zip-safe
+pip-egg-info/modwsgideploy.egg-info/requires.txt
+pip-egg-info/modwsgideploy.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+#!/home/alexandre/Projetos/syriawings/bin/python
+from Cheetah.CheetahWrapper import _cheetah
+_cheetah()
